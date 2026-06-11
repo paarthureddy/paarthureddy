@@ -1,10 +1,6 @@
 <h1 style="text-align: center;"> Paarthu Reddy </h1>
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=paarthureddy&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-</div>
 
 <br clear="right"/>
 
